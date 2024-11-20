@@ -1,9 +1,8 @@
- # VIRTUAL MACHINE CREATION IN LINUX
-  ## AIM
+# VIRTUAL MACHINE CREATION IN LINUX
+## AIM
        To Install Virtualbox / VMware Workstation with different flavours of linux.
 ## PROBLEM STATEMENT
     Explain about the Experiment.
-
 ## ALGORITHM
 ### Step 1:
 Open VirtualBox or VMware Workstation
